@@ -1,54 +1,14 @@
 {
   "todos": [
     {
-      "id": 1,
-      "title": "Estudar javascript",
-      "completed": true
+      "title": "Tarefa",
+      "completed": true,
+      "id": 1
     },
     {
-      "id": 2,
-      "title": "Estudar Vue",
-      "completed": false
-    },
-    {
-      "id": 3,
-      "title": "Estudar composition API",
-      "completed": false
-    },
-    {
-      "title": "Ver série",
+      "title": "Tarefa 2",
       "completed": false,
-      "id": 4
-    },
-    {
-      "title": "Mijar",
-      "completed": false,
-      "id": 5
-    },
-    {
-      "title": "opa",
-      "completed": false,
-      "id": 6
-    },
-    {
-      "title": "4854",
-      "completed": false,
-      "id": 7
-    },
-    {
-      "title": "123",
-      "completed": false,
-      "id": 8
-    },
-    {
-      "title": "1231",
-      "completed": false,
-      "id": 9
-    },
-    {
-      "title": "qwe",
-      "completed": false,
-      "id": 10
+      "id": 2
     }
   ]
 }
